@@ -26,7 +26,7 @@ Je m'intéresse également à la télémétrie, au streaming de données, à l'o
 
 ## Projets mis en avant
 
- to do...
+ - Projet d'orchestration - Architecture de données — Sports Notification: https://github.com/alex-p-oc/sports-notifications-data-architecture
 
 *(Chaque projet a son propre repo, lié directement depuis le site.)*
 
