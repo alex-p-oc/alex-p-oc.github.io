@@ -1,31 +1,36 @@
-# Comment déployer ce portfolio sur GitHub Pages
+# Portfolio — Alexandre Perron
 
-## 1. Personnaliser le contenu
-Ouvre `index.html` et remplace :
-- `Prénom Nom` par ton nom
-- les liens `https://github.com/ton-pseudo` par ton vrai profil GitHub
-- les 6 blocs `.project` par tes vrais projets (titre, description, lien, technos)
-- `ton.email@exemple.com` et le lien LinkedIn dans la section contact
-- (optionnel) ajoute un fichier `CV.pdf` à côté de `index.html` si tu veux proposer un téléchargement
+![Site en ligne](https://img.shields.io/website?url=https%3A%2F%2Falex-p-oc.github.io.github.io&label=site&up_message=en%20ligne)
+![HTML](https://img.shields.io/badge/HTML-5-e34c26)
+![CSS](https://img.shields.io/badge/CSS-3-264de4)
+![GitHub Pages](https://img.shields.io/badge/hébergé%20sur-GitHub%20Pages-222)
 
-## 2. Créer le repo GitHub Pages
-1. Sur GitHub, crée un nouveau repo nommé **exactement** `ton-pseudo.github.io`
-   (remplace `ton-pseudo` par ton nom d'utilisateur GitHub)
-2. Mets `index.html` (et `CV.pdf` si tu l'ajoutes) à la racine du repo
+Portfolio personnel présentant mon parcours et mes projets réalisés dans le cadre
+de ma formation **Data Engineer** chez OpenClassrooms.
 
-## 3. Publier
-```bash
-git init
-git add index.html README.md
-git commit -m "Portfolio initial"
-git branch -M main
-git remote add origin https://github.com/ton-pseudo/ton-pseudo.github.io.git
-git push -u origin main
-```
+**🔗 Voir le site en ligne : [alex-p-oc.github.io](https://alex-p-oc.github.io)**
 
-Ton site sera visible en quelques minutes à l'adresse :
-`https://ton-pseudo.github.io`
+## À propos
 
-## 4. Mettre à jour
-Chaque `git push` sur la branche `main` republie automatiquement le site,
-pas besoin de configuration supplémentaire.
+Sans être une reconversion vers la data engineering, je souhaite intégrer cete composante data dans la suite de ma carrière. 
+
+J'aime travailler sur des données réelles : les nettoyer, les fiabiliser, et surtout: construire des pipelines automatisés qui fonctionnent !!! 
+
+Je m'intéresse également à la télémétrie, au streaming de données, à l'organisation des logs et à la gestion des erreurs de manière organisée.
+
+## Stack technique du site
+
+- HTML5 / CSS3 pur, sans framework ni dépendance
+- Hébergement gratuit via GitHub Pages
+- Police [IBM Plex](https://fonts.google.com/specimen/IBM+Plex+Sans)
+
+## Projets mis en avant
+
+ to do...
+
+*(Chaque projet a son propre repo, lié directement depuis le site.)*
+
+## Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexperron/)
+- 🐙 [GitHub](https://github.com/alex-p-oc)
