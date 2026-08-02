@@ -32,6 +32,7 @@ Je m'intéresse également à la télémétrie, au streaming de données, à l'o
  - Pipeline gestion de tickets clients en streaming: https://github.com/alex-p-oc/ticket-stream
  - Infrastructure de données Airbyte, ECS, S3: https://github.com/alex-p-oc/meteo_data_pipeline
  - Conception de base de données NoSQL (données type Airbnb): https://github.com/alex-p-oc/mongodb_nosql_database_design
+ - Prédiction de consommation énergétique de bâtiments: https://github.com/alex-p-oc/ML_prediction_consommation_energetique
 
 *(Chaque projet a son propre repo, lié directement depuis le site.)*
 
