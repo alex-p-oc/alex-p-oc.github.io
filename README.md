@@ -30,6 +30,7 @@ Je m'intéresse également à la télémétrie, au streaming de données, à l'o
  - Projet chatbot RAG Mistral AI: https://github.com/alex-p-oc/rag_events_chatbot
  - Projet d'orchestration et d'analyse de données: https://github.com/alex-p-oc/data_stream_orchestration
  - Pipeline gestion de tickets clients en streaming: https://github.com/alex-p-oc/ticket-stream
+ - Infrastructure de données Airbyte: https://github.com/alex-p-oc/meteo_data_pipeline
 
 *(Chaque projet a son propre repo, lié directement depuis le site.)*
 
