@@ -33,6 +33,10 @@ Je m'intéresse également à la télémétrie, au streaming de données, à l'o
  - Infrastructure de données Airbyte, ECS, S3: https://github.com/alex-p-oc/meteo_data_pipeline
  - Conception de base de données NoSQL (données type Airbnb): https://github.com/alex-p-oc/mongodb_nosql_database_design
  - Prédiction de consommation énergétique de bâtiments: https://github.com/alex-p-oc/ML_prediction_consommation_energetique
+ - Migration de données médicales NoSQL: https://github.com/alex-p-oc/MedDataMigration
+ - Audit d’un environnement de données: https://github.com/alex-p-oc/db_environment_audit
+ - Création d'une base de données SQL: https://github.com/alex-p-oc/sql_db_design
+ - Analyse de données de systèmes éducatifs mondial: https://github.com/alex-p-oc/data_analysis_world_school_systems
 
 *(Chaque projet a son propre repo, lié directement depuis le site.)*
 
