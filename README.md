@@ -1,6 +1,6 @@
 # Portfolio — Alexandre Perron
 
-![Site en ligne](https://img.shields.io/website?url=https%3A%2F%2Falex-p-oc.github.io.github.io&label=site&up_message=en%20ligne)
+![Site en ligne](https://img.shields.io/website?url=https%3A%2F%2Falex-p-oc.github.io&label=site&up_message=en%20ligne)
 ![HTML](https://img.shields.io/badge/HTML-5-e34c26)
 ![CSS](https://img.shields.io/badge/CSS-3-264de4)
 ![GitHub Pages](https://img.shields.io/badge/hébergé%20sur-GitHub%20Pages-222)
